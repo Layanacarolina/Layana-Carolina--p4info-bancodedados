@@ -1,0 +1,22 @@
+a)
+Uma entidade (entity) é um objeto que existe e é distinguível dos outros objetos. Por exemplo, Paulo Silva com número de CPF 123.456.789-00 é uma entidade, 
+visto que isso identifica unicamente uma pessoa particular do universo.
+
+b)
+Os relacionamentos de banco de dados são associações entre tabelas que são criadas usando instruções de junção para recuperar dados. A tabela a seguir descreve os relacionamentos do banco de dados. Ambas tabelas podem ter somente um registro de cada lado do relacionamento.
+
+c)
+Formalmente, um atributo é uma função que mapeia um conjunto de entidades em um domínio. Portanto, toda entidade é descrita por um conjunto de pares (atributo, valor do atributo), sendo um par para cada atributo do conjunto de entidades.
+
+d)
+
+e) 
+Primeiro vamos entender o conceito de generalização . É quando duas entidades podem ser agrupadas, em virtude de suas semelhanças (atributos em comum), gerando uma super entidade. Ex.: As duas entidades tem em comum os atributos e-mail, endereço, telefone, mídias sociais e etc…
+
+especializacao É quando uma entidade pode ser subdividida, herdando atributos da entidade genérica e, juntamente com seus atributos específicos, compor a sua lista de atributos.
+
+f)
+Uma entidade associativa é um termo usado na teoria relacional e de entidade-relacionamento. Um banco de dados relacional requer a implementação de uma relação base para resolver relacionamentos muitos-para-muitos. Uma relação base que representa este tipo de entidade é chamada, informalmente, de "tabela associativa".
+
+g)
+A cardinalidade é um número que expressa o comportamento (número de ocorrências) de determinada entidade associada a uma ocorrência da entidade em questão através do relacionamento.
