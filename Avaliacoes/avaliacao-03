@@ -1,1 +1,13 @@
+atividade 03-BD
+1)
+O modelo conceitual concentra-se no mais alto nível de abstração e não leva em conta o banco de dados em si, mas a forma como as estruturas serão criadas para armazenar os dados.
 
+A modelagem conceitual é a forma mais natural dos fatos e estão mais próximas da realidade do ambiente do cliente. No modelo conceitual o cliente deverá ser envolvido a fim de obter o levantamento de dados que darão suporte à construção de todo o modelo.
+
+
+2) 
+O Projeto Lógico de um banco de dados tem por objetivo avaliar as necessidades de uso do banco de dados pelos usuários/aplicações, realizando possíveis refinamentos para alcançar maior desempenho das operações sobre o banco de dados.
+
+
+3)
+O Projeto Físico é a parte final do projeto de banco de dado, nesta etapa define-se detalhes técnicos da implementação do banco de dados, por exemplo a forma como os dados serão armazenados, os scripts para a criação dos objetos no banco de dados (tabelas, visões, colunas, funções, ...), permissão de acesso de usuário, ...
